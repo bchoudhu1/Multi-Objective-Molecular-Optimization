@@ -1,4 +1,4 @@
 For the Microbiome Modulator Notebook, REINFORCE + GRU Conditional Generator is used for data-constrained setting.
 
-The approach can be adaptable to standard VAE based approaches(population encoder + SMILES decoder) 
-as standard for another genome-expression based workflows to scale up the former workflow. 
+The approach can be a more data-efficient layer prior to VAE based methods(population encoder + SMILES decoder) 
+as evident across other genome-expression->small molecule perturbation based workflows.
